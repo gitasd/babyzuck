@@ -10,7 +10,7 @@ body{
     /* padding: 4px; */
     padding-left: 90px;
     padding-top: 200px;
-    width: 100vw;
+    width: 80vw;
     display: flex;
     flex-direction: row;
     justify-self: center;
@@ -31,7 +31,7 @@ body{
     background-origin:padding-box;
     background-size: 100%;
     background-position: center;
-    width: 90%;
+    width: 80%;
 }
 .timeline-wrapper{
     display: flex;
@@ -44,6 +44,7 @@ body{
 .timeline-right{
     background-color: #FFFFFF;
     z-index: 1;
+    width: 100px;
 }
 .timeline-left img{
     float: right;
@@ -100,6 +101,9 @@ hr.line {
         background-origin:padding-box;
         background-size: 100%;
         background-position:center;
+    }
+    .timeline-right{
+        width: 80px;
     }
     /* .timeline-right, .timeline-left{
         width: 50%;

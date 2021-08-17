@@ -39,7 +39,7 @@ body{
     color: #1877F2;
     font-weight: 500;
     justify-content: left;
-    font-size: 3em;
+    font-size: 3.4em;
     margin-top: 0;
 }
 .hero-welcome p{
@@ -51,8 +51,8 @@ body{
     align-items: center;
 }
 .hero-zuck{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
 }
 .nft-collection-btn{
     position: relative;
@@ -86,6 +86,10 @@ body{
        padding-bottom: 0;
        width: 100%; 
     }
+    .hero-zuck{
+        width: 250px;
+        height: 250px;
+    }
     .hero-welcome h1{
         font-size: 2em;
     }
@@ -94,6 +98,8 @@ body{
     }
     .nft-collection-btn{
         margin-left: 35%;
+        position: relative;
+        top: 1px;
     }
 }
 

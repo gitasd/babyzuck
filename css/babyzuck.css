@@ -230,6 +230,7 @@ body {
 .ul-1, .ul-2{
   list-style: none;
   padding-left: 0;
+  overflow-x: hidden;
 }
 .ul-1 li, .ul-2 li{
   color:#1877F2;
@@ -414,6 +415,9 @@ body {
     }
     .disclaimer div{
       width: 60%;
+    }
+    .zuck-details{
+      width: 70%;
     }
   }
 
