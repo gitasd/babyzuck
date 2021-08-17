@@ -390,6 +390,9 @@ body {
   
 
   @media screen and (max-width: 1104px){
+    .body{
+      overflow-x: hidden;
+    }
     .headbutton1, .headbutton2{
         display: none;
     }
