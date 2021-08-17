@@ -96,7 +96,7 @@ hr.line {
 }
 @media screen and (max-width: 1104px){
     .timeline{
-        width: 80%;
+        /* width: 80%; */
         background-origin:padding-box;
         background-size: 100%;
         background-position:center;
