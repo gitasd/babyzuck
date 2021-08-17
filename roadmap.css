@@ -101,9 +101,9 @@ hr.line {
         background-size: 100%;
         background-position:center;
     }
-    .timeline-right, .timeline-left{
+    /* .timeline-right, .timeline-left{
         width: 50%;
-    }
+    } */
 }
 /* .road-list::before {
     content: '';
